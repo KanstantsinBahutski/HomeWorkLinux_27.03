@@ -1,0 +1,10 @@
+Wed Apr  5 21:43:19 UTC 2023
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p1   20G  9.1G   11G  46% /
+  998  rm HW_file.txt 
+  999  cd PIVO
+ 1000  date > hw_file.txt
+ 1001  df -h / >> hw_file.txt 
+ 1002  history | tail -n 5 >> hw_file.txt 
+ AuthenticAMD
+127
